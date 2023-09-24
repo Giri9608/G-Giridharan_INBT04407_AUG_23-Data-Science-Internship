@@ -18,6 +18,9 @@ Name : G Giridharan
 Regd No. : INBT04407
 
 This repository consists of the projects during the internship period with the iNeuBytes.
+
+
+
 Task 1: Heart Disease Classification
 Description
 The "Heart Disease Analysis" project is a data analysis and classification initiative that aims to predict the presence or absence of heart disease based on a variety of patient characteristics. The research aims to construct a machine learning model for early identification and risk assessment of heart disease using a dataset combining demographic, clinical, and laboratory information of patients.
