@@ -1,8 +1,11 @@
 # G-Giridharan_INBT04407_SEP23-Data-Science-Internship
 
 IneuBytes_Projects _ Sep 2023
+
 Name : G Giridharan
+
 Regd No. : INBT04407
+
 This repository consists of the projects during the internship period with the iNeuBytes.
 Task 1: Heart Disease Classification
 Description
